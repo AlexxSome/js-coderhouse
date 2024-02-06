@@ -3,8 +3,8 @@ $(document).ready(function(){
     let estatura = 0;
 
 
-    $("#btnCalcular").click({
-
+    $('#btnCalcular').click(function(){
+        alert("Hola mundete");
     });
 
 })
